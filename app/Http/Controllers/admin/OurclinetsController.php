@@ -41,7 +41,7 @@ class OurclinetsController extends Controller
                     if (isset($response->image) && !empty($response->image)) {
                         $this->delete_images_by_name(ORIGNAL_IMAGE_PATH_CLIENTS,LARGE_IMAGE_PATH_CLIENTS,MEDIUM_IMAGE_PATH_CLIENTS,SMALL_IMAGE_PATH_CLIENTS, $response->image);
                     }
-                    $this->upload_images(ORIGNAL_IMAGE_PATH_CLIENTS,LARGE_IMAGE_PATH_CLIENTS,MEDIUM_IMAGE_PATH_CLIENTS,SMALL_IMAGE_PATH_CLIENTS,$request->file('image'), $updateId, 'image','id', 'our_clinets');
+                    $this->upload_images(ORIGNAL_IMAGE_PATH_CLIENTS,LARGE_IMAGE_PATH_CLIENTS,MEDIUM_IMAGE_PATH_CLIENTS,SMALL_IMAGE_PATH_CLIENTS,$request->file('image'), $updateId, 'image','id', 'our_clients');
 
                 }
             }

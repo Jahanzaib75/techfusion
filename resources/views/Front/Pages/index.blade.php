@@ -44,7 +44,7 @@
     <div class="row justify-content-center">
         <div class="col-lg-6 col-md-10">
             <div class="section-heading text-center" style="margin-top:12%;">
-                <h2>Featured Clients</h2>
+                <h2>Featured Projects</h2>
                 <p>Here are some words from our best and happy customers all over the world, we really want your business to be featured on our website</p>
             </div>
         </div>
