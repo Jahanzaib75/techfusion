@@ -70,7 +70,7 @@
                             class="fad fa-check-circle me-2 custom-black-color"></i>Account refers to the creation of a unique account, which We create for You to access Our Service, whether in entirety or in parts.
                     </li>
                     <li class="py-1 custom-black-color"><i
-                            class="fad fa-check-circle me-2 custom-black-color"></i>Company (referred to as either "the Company '', "We", "Us" or "Our' ' in this Agreement) refers to the Hire Pro, Abbasia Town, Rahim Yar Khan, 64200, Pakistan.
+                            class="fad fa-check-circle me-2 custom-black-color"></i>Company (referred to as either "the Company '', "We", "Us" or "Our' ' in this Agreement) refers to the Tech Fusion Pro, Punjab, Pakistan.
                     </li>
                     <li class="py-1 custom-black-color"><i
                             class="fad fa-check-circle me-2 custom-black-color"></i>Cookies refer here to small files that a website places on any device which You use to access it, including but not limited to Your desktop computer, laptop, or a mobile. Among various other uses, cookies also contain a detailed account of Your browsing history on a particular website.
@@ -433,17 +433,17 @@
                     <ul class="list-unstyled mb-0">
                       <li class="py-1 custom-black-color"><i
                               class="fad fa-check-circle me-2 custom-black-color"></i>
-                              Email: social@letshirepro.com
+                              Email: info@techfusionpro.com
 
 
                       </li>
                       <li class="py-1 custom-black-color"><i
                               class="fad fa-check-circle me-2 custom-black-color"></i>
-                              Visiting the following page on Our website: https://letshirepro.com/privacy
+                              Visiting the following page on Our website: https://techfusionpro.com/privacy-policy
                       </li>
                       <li class="py-1 custom-black-color"><i
                               class="fad fa-check-circle me-2 custom-black-color"></i>
-                              Calling us at +923030279447
+                              Calling us at +923176002420
                       </li>
                     </ul>
                 </div>

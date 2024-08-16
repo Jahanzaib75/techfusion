@@ -5,7 +5,7 @@
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
     <title>TechFusionPro | Subscription</title>
-    <meta name="description" content="Hire Pro | Subscription">
+    <meta name="description" content="Tech Fusion Pro | Subscription">
     <style type="text/css">
         a:hover {text-decoration: underline !important;}
     </style>

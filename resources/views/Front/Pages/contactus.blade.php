@@ -22,10 +22,10 @@
                     <span class="fad fa-envelope fa-3x text-primary"></span>
                     <div class="contact-promo-info mb-4">
                         <h5>Email Us</h5>
-                        <p>Simply drop us an email at <strong>hello@letshirepro.com</strong>
+                        <p>Simply drop us an email at <strong>info@techfusionpro.com</strong>
                             and you'll receive a reply within 24 hours.</p>
                     </div>
-                    <a href="mailto:hello@letshirepro.com" class="btn btn-primary mt-auto">Email Us</a>
+                    <a href="mailto:info@techfusionpro.com" class="btn btn-primary mt-auto">Email Us</a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
@@ -36,7 +36,7 @@
                         <p>Give us a ring.Our Experts are standing by <strong>24 hours</strong>.
                         </p>
                     </div>
-                    <a href="tel:+923030279447" class="btn btn-link mt-auto">+923030279447</a>
+                    <a href="tel:+923176002420" class="btn btn-link mt-auto">+923176002420</a>
                 </div>
             </div>
         </div>

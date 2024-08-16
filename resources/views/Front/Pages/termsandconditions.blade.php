@@ -294,16 +294,16 @@
                 <ul class="list-unstyled mb-0">
                   <li class="py-1 custom-black-color"><i
                           class="fad fa-check-circle me-2 custom-black-color"></i>
-                          By email: social@letshirepro.com
+                          By email: info@techfusionpro.com
 
                   </li>
                   <li class="py-1 custom-black-color"><i
                           class="fad fa-check-circle me-2 custom-black-color"></i>
-                          Visiting the following page on Our website: https://letshirepro.com/privacy
+                          Visiting the following page on Our website: https://techfusionpro.com/privacy-policy
                   </li>
                   <li class="py-1 custom-black-color"><i
                           class="fad fa-check-circle me-2 custom-black-color"></i>
-                          Calling us at +923030279447
+                          Calling us at +923176002420
                   </li>
                 </ul>
               </div>

@@ -171,9 +171,9 @@
                     <li class="nav-item">
                         <a class="nav-link custom-tab" href="#tab-2" id="pills-profile-tab" data-bs-toggle="tab" role="tab" aria-controls="tab-2" aria-selected="false">Mobile App Development</a>
                     </li>
-                    <li class="nav-item">
+                    {{-- <li class="nav-item">
                         <a class="nav-link custom-tab" href="#tab-7" id="pills-profile-tab" data-bs-toggle="tab" role="tab" aria-controls="tab-7" aria-selected="false">.Net Development</a>
-                    </li>
+                    </li> --}}
                     <li class="nav-item">
                         <a class="nav-link custom-tab" href="#tab-3" id="pills-profile-tab" data-bs-toggle="tab" role="tab" aria-controls="tab-3" aria-selected="false">Graphic Designing</a>
                     </li>
@@ -245,7 +245,7 @@
                                     <div class="feature-content">
                                         <h3 class="h5 custom-black-color">Our App development</h3>
                                         <p class="custom-black-color">In today’s world, it’s all about squeezing everything into the palm of your hand. That’s why it can be a game-changer for your business. And that’s why we deem app development as one of our core areas of strength. Our app development gives your users the convenience of accessing your services anytime, anywhere, resulting in greater user engagement, and higher revenue generation.</p>
-                                        <!-- <p class="custom-black-color">In Hire Pro App Developers will be able to
+                                        <!-- <p class="custom-black-color">In Tech Fusion Pro App Developers will be able to
                                                         develop the Hybrid Mobile Apps on the following Platforms:</p> -->
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12" style="float:left; padding-bottom:50px;">
                                             <h6 class="mt-4 custom-black-color">Our app development team specializes in</h6>
@@ -583,7 +583,7 @@
             <div class="col-lg-6 col-md-10">
                 <div class="section-heading text-center">
                     <h2>With "TechFusionPro" You Save Way More than Just Money?</h2>
-                    <p>There’s a lot more than just money that you save choosing Hire Pro as your partner. You save time, hassle, energy, resources, and a lot of motivation to get going under these challenging times without distractions</p>
+                    <p>There’s a lot more than just money that you save choosing Tech Fusion Pro as your partner. You save time, hassle, energy, resources, and a lot of motivation to get going under these challenging times without distractions</p>
                 </div>
             </div>
         </div>

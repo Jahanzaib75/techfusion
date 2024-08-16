@@ -109,7 +109,7 @@
                         <li class="py-1 custom-black-color list-spacing"><i
                                 class="fad fa-check-circle me-2 custom-black-color"></i>This answer makes us different and we are just 2 clicks away! See more, what makes us different or best suitable for your need in such gifting price. </li>
                         <li class="py-1 custom-black-color list-spacing"><i
-                                class="fad fa-check-circle me-2 custom-black-color"></i>Hire Pro always has quick Support where you do not need to wait forever to get the response. 
+                                class="fad fa-check-circle me-2 custom-black-color"></i>Tech Fusion Pro always has quick Support where you do not need to wait forever to get the response. 
                         </li>
                         <li class="py-1 custom-black-color list-spacing"><i
                                 class="fad fa-check-circle me-2 custom-black-color"></i>We have in-house training sessions which boost our employees' performances and also their productivity. 
