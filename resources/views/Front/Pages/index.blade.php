@@ -66,7 +66,7 @@
 </section>
 <!-- end clients owl carusel -->
 <!-- our team carusel -->
-<section class="owl-section ptb-60">
+<section class="owl-section ptb-60 d-none">
     <div class="row justify-content-center">
         <div class="col-lg-6 col-md-10">
             <div class="section-heading text-center" style="margin-top:12%;">
