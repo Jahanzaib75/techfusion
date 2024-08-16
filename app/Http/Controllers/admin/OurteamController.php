@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers\admin;
-use App\Models\Ourteam;
+use App\Models\OurTeam;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Http\Request;
@@ -9,14 +9,14 @@ use Illuminate\Http\Request;
 class OurteamController extends Controller
 {
     public function index(){
-        $record=Ourteam::all();
+        $record=OurTeam::all();
         return view('admin.modules.ourteam.index',compact('record'));
     }
     public function create(Request $request){
         $data = null;
         $data['updateId'] = $updateId = ($request->id ?? 0);
         if(is_numeric($updateId) && $updateId > 0) {
-            $data['record'] = Ourteam::where('id',$updateId)->first();
+            $data['record'] = OurTeam::where('id',$updateId)->first();
         }
         return view('admin.modules.ourteam.create',compact('data'));
     }

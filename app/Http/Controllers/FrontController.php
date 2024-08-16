@@ -13,7 +13,7 @@ use App\Models\Setting;
 use App\Models\Savemony;
 use App\Models\Testimonial;
 use App\Models\OurClient;
-use App\Models\Ourteam;
+use App\Models\OurTeam;
 use App\Models\blog;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Validator;
@@ -26,14 +26,14 @@ class FrontController extends Controller
         // $content=HomeContent::all();
         // $savemony=Savemony::all();
         $clinets=OurClient::all();
-        $teams=Ourteam::all();
+        $teams=OurTeam::all();
         $meta = Webpages::Where("page_title", "=", "home")->first();
         $data=Webpages::where("is_publish", "=", 1)->orderBy('page_rank','asc')->get();
         // $ranks = Webpages::orderBy('page_rank', 'DESC')->get();
         return view('Front.Pages.index',compact('data','clinets','teams','testimonial', 'meta'));
     }
     public function ourStory() {
-        $teams=Ourteam::all();
+        $teams=OurTeam::all();
         $header = array('zIndex'=>'yes');
         $meta = Webpages::Where("page_title", "=", "home")->first();
         $data=Webpages::where("is_publish", "=", 1)->orderBy('page_rank','asc')->get();
