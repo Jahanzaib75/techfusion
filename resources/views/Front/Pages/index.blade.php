@@ -660,7 +660,7 @@
         </div>
     </section>
 
-    <section class="integration-section ptb-60">
+    <section class="integration-section ptb-60 d-none">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-3">
