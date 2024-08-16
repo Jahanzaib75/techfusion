@@ -41,7 +41,7 @@ class OurteamController extends Controller
                     if (isset($response->image) && !empty($response->image)) {
                         $this->delete_images_by_name(ORIGNAL_IMAGE_PATH_TEAM,LARGE_IMAGE_PATH_TEAM,MEDIUM_IMAGE_PATH_TEAM,SMALL_IMAGE_PATH_TEAM, $response->image);
                     }
-                    $this->upload_images(ORIGNAL_IMAGE_PATH_TEAM,LARGE_IMAGE_PATH_TEAM,MEDIUM_IMAGE_PATH_TEAM,SMALL_IMAGE_PATH_TEAM,$request->file('image'), $updateId, 'image','id', 'ourteams');
+                    $this->upload_images(ORIGNAL_IMAGE_PATH_TEAM,LARGE_IMAGE_PATH_TEAM,MEDIUM_IMAGE_PATH_TEAM,SMALL_IMAGE_PATH_TEAM,$request->file('image'), $updateId, 'image','id', 'our_teams');
 
                 }
             }
