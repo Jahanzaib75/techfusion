@@ -1,11 +1,13 @@
-			<!--Footer-->
-			<footer class="footer">
-				<div class="container">
-					<div class="row align-items-center flex-row-reverse">
-						<div class="col-md-12 col-sm-12 text-center">
-							Copyright © 2021 <a href="{{url('https://letshirepro.com/')}}">TechFusionPro</a>. Designed by <a href="{{url('https://hwryk.com/')}}">Hello World Technologies</a> All rights reserved.
-						</div>
-					</div>
-				</div>
-			</footer>
-			<!-- End Footer-->
+   <!--Footer-->
+   <footer class="footer">
+       <div class="container">
+           <div class="row align-items-center flex-row-reverse">
+               <div class="col-md-12 col-sm-12 text-center">
+                   Copyright © {{ date('Y') }} <a href="{{ url('https://techfusionpro.com/') }}">TechFusionPro</a>.
+                   All rights
+                   reserved.
+               </div>
+           </div>
+       </div>
+   </footer>
+   <!-- End Footer-->
